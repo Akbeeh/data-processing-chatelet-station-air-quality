@@ -161,3 +161,4 @@ cython_debug/
 
 # Apache Spark
 apache_spark/
+aggregated_avg_results/
